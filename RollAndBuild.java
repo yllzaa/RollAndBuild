@@ -16,6 +16,7 @@ public class RollAndBuild {
 	public static void main(String[] args) {
 		 
 		/** */
+		// i am making changes.... dot dot
 		RollAndBuild Player1 = new RollAndBuild();
 		RollAndBuild Player2 = new RollAndBuild();
 		/** the scanner will alow us to throw the dice on command */
