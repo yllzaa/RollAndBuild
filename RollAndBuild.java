@@ -15,6 +15,7 @@ public class RollAndBuild {
 	
 	public static void main(String[] args) {
 		 
+		// pretend i fixed a bug...
 		/** */
 		RollAndBuild Player1 = new RollAndBuild();
 		RollAndBuild Player2 = new RollAndBuild();
