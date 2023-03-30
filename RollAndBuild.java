@@ -17,6 +17,7 @@ public class RollAndBuild {
 		 
 		// pretend i fixed a bug...
 		/** */
+		// i am making changes.... dot dot
 		RollAndBuild Player1 = new RollAndBuild();
 		RollAndBuild Player2 = new RollAndBuild();
 		/** the scanner will alow us to throw the dice on command */
